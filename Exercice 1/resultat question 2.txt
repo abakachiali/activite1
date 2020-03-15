@@ -1,0 +1,8 @@
+Début de la vérification...
+[ERROR] D:\\Exemple.java:17:3: Balise Javadoc @param inutilisée pour 't'. [JavadocMethod]
+[ERROR] D:\\Exemple.java:19:29: Balise Javadoc @param manquante pour 'tParam'. [JavadocMethod]
+[ERROR] D:\\Exemple.java:28:1: Commentaire Javadoc manquant. [MissingJavadocMethod]
+[ERROR] D:\\Exemple.java:28:42: '{' à la colonne 42 devrait avoir un saut de ligne après. [LeftCurly]
+[ERROR] D:\\Exemple.java:34:4: Il y a une espace de trop après '('. [ParenPad]
+[ERROR] D:\\Exemple.java:34:13: '{' à la colonne 13 devrait avoir un saut de ligne après. [LeftCurly]
+Vérification terminée.

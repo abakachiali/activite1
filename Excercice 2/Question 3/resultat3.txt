@@ -1,0 +1,4 @@
+Début de la vérification...
+[ERROR] D:\\TabAlgos.java:11:1: Le fichier contient des caractères de tabulation (ce n'est que la première occurence). [FileTabCharacter]
+Vérification terminée.
+Checkstyle se termine par 1 erreurs.
